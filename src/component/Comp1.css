@@ -251,16 +251,6 @@ body {
 
 }
 
-.about-section .image-column .video-link {
-    position: absolute;
-    left: 70px;
-    top: 170px;
-}
-
-.about-section .image-column .video-link .link:hover {
-    background-color: #191e34;
-}
-
 
 /* Sectiion6 */
 
